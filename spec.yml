@@ -1,0 +1,8 @@
+language:
+  docker_image: "hexletbasics/exercises-powershell"
+  extension: ps1
+  exercise_filename: Index.ps1
+  exercise_test_filename: Index.Tests.ps1
+  learn_as: first_language
+  progress: in_development
+  name: Powershell
