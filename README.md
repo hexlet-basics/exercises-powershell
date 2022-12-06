@@ -1,5 +1,7 @@
 # exercises-powershell
 
+[![Docker](https://github.com/hexlet-basics/exercises-powershell/actions/workflows/Docker.yml/badge.svg)](https://github.com/hexlet-basics/exercises-powershell/actions/workflows/Docker.yml)
+
 ## How to contribute
 
 * Discussions at #hexlet-volunteers Slack channel http://slack.hexlet.io
