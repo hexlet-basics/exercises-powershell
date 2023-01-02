@@ -10,8 +10,6 @@ WORKDIR /exercises-powershell
 
 COPY . .
 
-ENV PATH=/exercises-bash/bin:$PATH
+ENV PATH=~/.local/bin/:/exercises-powershell/bin:$PATH
 
-RUN chmod +x bin/test.sh
-
-RUN pwsh "build.ps1"
+RUN pwsh "bin/build.ps1"

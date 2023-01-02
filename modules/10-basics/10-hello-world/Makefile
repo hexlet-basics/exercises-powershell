@@ -1,2 +1,2 @@
 test:
-	pwsh -Command Invoke-Pester
+	@ test.sh
