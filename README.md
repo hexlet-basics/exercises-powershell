@@ -4,7 +4,7 @@
 
 ## How to contribute
 
-* Discussions at #hexlet-volunteers [Telegram community](https://t.me/hexletcommunity/12)
+- Discussions at #hexlet-volunteers [Telegram community](https://t.me/hexletcommunity/12)
 
 ## Develop
 
